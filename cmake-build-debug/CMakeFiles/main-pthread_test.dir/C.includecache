@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seongchan-joe/CLionProjects/linux-user_level_thread-test/src/main-pthread_test.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+

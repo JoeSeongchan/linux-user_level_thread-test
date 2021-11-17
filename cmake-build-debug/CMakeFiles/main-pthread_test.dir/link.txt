@@ -1,0 +1,1 @@
+/usr/lib/ccache/gcc -g CMakeFiles/main-pthread_test.dir/src/main-pthread_test.c.o -o main-pthread_test 
